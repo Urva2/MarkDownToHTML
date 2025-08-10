@@ -16,7 +16,16 @@ This project is a simple web-based Markdown to HTML converter. It allows users t
 - *Live Preview:* The HTML preview updates automatically as you type without needing a convert button.  
 - *User Instructions:* The input textarea shows helpful instructions when the page loads, which clear as the user starts typing.  
 - *Clean UI:* A simple and responsive layout for ease of use.  
-- *Reliable Parsing:* Uses the popular [marked.js](https://github.com/markedjs/marked) library for accurate Markdown parsing with GitHub Flavored Markdown (GFM) support.  
+- *Reliable Parsing:* Uses the popular [marked.js](https://github.com/markedjs/marked) library for accurate Markdown parsing with GitHub Flavored Markdown (GFM) support.
+
+## Demo
+
+Here is a screenshot showing the converter interface in action:
+
+![Markdown Converter Screenshot](SS1.png)
+
+![After](SS2.png)
+
 
 ## How to Use
 
